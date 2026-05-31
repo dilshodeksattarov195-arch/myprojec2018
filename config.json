@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachevync",
+        "uuid": 867740,
+        "checksum": "4s7bs"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
